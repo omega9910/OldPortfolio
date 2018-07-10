@@ -1,0 +1,165 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+#desk-img {
+    margin-top: 50px;
+    max-height: 500px;
+    
+}
+#nav-link {
+    padding-top: 10px;
+
+}
+#nav-link li a{
+    padding-top: 15px;
+     font-size: 1.3em;
+}
+#nav-link a:hover {
+    text-decoration:underline;
+    text-decoration-color: #e75656;
+    
+}
+#light-blue1 {
+    height: 100px;
+}
+.intro-container {
+    max-width: auto;
+    
+    
+}
+#intro-paragraph {
+    background-color: #e75656;
+    width: 100%;
+    
+}
+#intro-paragraph1 {
+    background-color: #ffd5b2;
+    width: 100%;
+    
+}
+#intro-paragraph2 {
+    background-color: #87715f;
+    width: 100%;
+    
+}
+#intro-paragraph3 {
+    background-color: #fc886e;
+    width: 100%;
+    
+}
+#slider-img {
+    padding: 0;
+    
+}
+#slider-img li.active {
+    height: 400px;
+    
+}
+#info-width {
+    width: 60%;
+    
+}
+#info-width2 {
+    width: 60%;
+    
+}
+#info-img1 {
+    padding-top: 10px;
+}
+#info-img2 {
+    padding-top: 10px;
+    
+}
+#info-text {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 2.7em;
+}
+#info-text2 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.3em;
+}
+#intro-text {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+#intro-text2 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.7em;
+}
+#intro-text3 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 5.7em;
+    vertical-align: middle;
+}
+#intro-text4 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 2.7em;
+    vertical-align: middle;
+}
+#intro-text5 {
+    font-family: 'Parisienne', cursive;
+    font-size: 4.7em;
+    vertical-align: middle;
+}
+#intro-text6 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.7em;
+    vertical-align: middle;
+}
+#footer-text1 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1em;
+    vertical-align: middle;
+}
+#footer-text2 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.5em;
+    vertical-align: middle;
+    color: #fff;
+}
+#nav-text {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.3em;
+    vertical-align: middle;
+}
+#body-color {
+    background-color: #f1ebee;
+    
+}
+.intro-spacing {
+    padding-bottom: 50px;
+    
+}
+#info-spacing {
+    padding-bottom: 50px;
+    
+}
+.info-spacing2 {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    
+}
+#me-img {
+    padding-top: 40px;
+    max-height: 200px;
+    
+}
+#border-img {
+    padding: 50px;
+    
+}
+#row-width {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
